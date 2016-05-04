@@ -1,0 +1,3 @@
+1) Prof. Freeh's socket code provided as an example for studying socket.
+2) Man pages for all the used commands.
+3) Discussed with Shrenuj gandhi and Sanket Chinchalkar few of the concepts of socket programming.
