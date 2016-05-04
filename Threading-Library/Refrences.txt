@@ -1,0 +1,7 @@
+References used:
+
+1) Discussed concepts of Threads with Sanket Chinchalkar and Shrenuj Gandhi
+2) Learned makecontext concepts --- http://linux.die.net/man/3/makecontext
+2) Learned swapcontext concepts --- http://linux.die.net/man/3/swapcontext
+2) Learned getcontext concepts --- http://linux.die.net/man/3/getcontext
+2) Learned setcontext concepts --- http://linux.die.net/man/3/setcontext
