@@ -1,3 +1,5 @@
+# Makefile for creating Threading library
+
 mythread.a: mythread.o
 	ar rcs mythread.a mythread.o
 	
