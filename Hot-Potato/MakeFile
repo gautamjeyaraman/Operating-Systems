@@ -1,0 +1,14 @@
+CC=gcc
+CFLAGS=-g
+
+all: master player
+
+master:	master.o
+	$(CC) $(CFLAGS) -o $@ master.o
+
+player:	player.o
+	$(CC) $(CFLAGS) -o $@ player.o
+
+master.o:	master.c
+
+player.o:	player.c 
