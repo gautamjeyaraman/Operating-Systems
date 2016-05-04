@@ -1,0 +1,11 @@
+Please find the refrences below:
+
+1) https://en.wikipedia.org/wiki/Cd_%28command%29
+2) https://en.wikipedia.org/wiki/Ls
+3) https://en.wikipedia.org/wiki/Echo_%28command%29
+4) http://man7.org/linux/man-pages/man1/nice.1.html
+5) http://man7.org/linux/man-pages/man2/dup.2.html
+6) http://man7.org/linux/man-pages/man2/fork.2.html
+7) http://linux.die.net/man/2/pipe
+8) https://en.wikipedia.org/wiki/Unix_signal
+9) Discussed few concepts with Shrenuj Gandhi
