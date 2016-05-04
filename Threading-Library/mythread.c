@@ -1,3 +1,5 @@
+// Owner : Nitish Shivrayan
+
 #include "mythread.h"
 #include <stdio.h>
 #include <stdlib.h>
