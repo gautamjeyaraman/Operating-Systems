@@ -1,0 +1,2 @@
+all: ramdisk.c 
+	gcc -Wall ramdisk.c `pkg-config fuse --cflags --libs` -w -o ramdisk
